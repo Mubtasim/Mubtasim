@@ -4,9 +4,9 @@
 
 I'm a full-stack engineer in Dhaka. Since 2023 I've built and maintained production platforms for European enterprise clients, owning them end to end: data model, APIs, frontend, deployment, security and production fixes. Recent work:
 
-- An advisor-hiring and product-demo platform with **8,000+ advisors onboarded and 300,000+ customers**. I own its frontend.
-- An advisor-recruitment platform I **built almost single-handedly**, in production since May 2026.
-- A customer-retention app I took **from prototype through UAT to production in under four weeks**.
+- An advisor-recruitment platform I **built almost single-handedly, backend and frontend**, in production since May 2026.
+- A customer-retention app I took **from prototype through UAT to production in under four weeks**, owning hosting, operations and features.
+- An advisor-hiring and product-demo platform with **8,000+ advisors onboarded and 300,000+ customers**, where I build and maintain the Angular frontend against a .NET backend.
 
 That code is private. This account is where I build in public.
 
@@ -14,6 +14,6 @@ That code is private. This account is where I build in public.
 
 **Going deep on:** distributed systems, system design, computer networking.
 
-**Stack:** TypeScript · Node.js (NestJS, Fastify) · React / Next.js · Angular · PostgreSQL · Azure · Docker · learning Go and C#
+**Stack:** TypeScript · Node.js (NestJS, Fastify) · React / Next.js · Angular · PostgreSQL · Azure · Docker · C# / .NET · learning Go
 
 [LinkedIn](https://www.linkedin.com/in/mubtasim91) · [Codeforces](https://codeforces.com/profile/MubtasimShahriar) · [LeetCode](https://leetcode.com/u/mubtasim91/) · [AtCoder](https://atcoder.jp/users/mubtasim91)
