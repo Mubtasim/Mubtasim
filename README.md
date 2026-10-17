@@ -10,10 +10,10 @@ I'm a full-stack engineer in Dhaka. Since 2023 I've built and maintained product
 
 That code is private. This account is where I build in public.
 
-**Algorithms:** Codeforces Expert (1698), LeetCode 2008, 1,700+ problems solved. Former problem setter for national programming contests in Bangladesh.
+**Algorithms:** Codeforces Expert (1698), LeetCode 2008, 1,700+ problems solved, mostly in Java. Former problem setter for national programming contests in Bangladesh.
 
 **Going deep on:** distributed systems, system design, computer networking.
 
-**Stack:** TypeScript · Node.js (NestJS, Fastify) · React / Next.js · Angular · PostgreSQL · Azure · Docker · C# / .NET · learning Go
+**Stack:** TypeScript · Node.js (NestJS, Fastify) · React / Next.js · Angular · PostgreSQL · Azure · Docker · Java · C# / .NET · learning Go
 
 [LinkedIn](https://www.linkedin.com/in/mubtasim91) · [Codeforces](https://codeforces.com/profile/MubtasimShahriar) · [LeetCode](https://leetcode.com/u/mubtasim91/) · [AtCoder](https://atcoder.jp/users/mubtasim91)
