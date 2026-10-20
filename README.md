@@ -10,6 +10,8 @@ I'm a full-stack engineer in Dhaka. Since 2023 I've built and maintained product
 
 That code is private. This account is where I build in public.
 
+**Now building:** [Tasklane](https://github.com/Mubtasim/tasklane), a self-hosted job queue server in Go on PostgreSQL. It has leases with heartbeats and fencing tokens, retries with backoff and a dead-letter queue, long-poll leasing over gRPC and HTTP, and a Go SDK with graceful shutdown. A one-command demo lets you kill workers and watch their jobs recover. Next: TypeScript and C# SDKs, metrics and a load test, then a Raft-replicated store underneath.
+
 **Algorithms:** Codeforces Expert (1698), LeetCode 2008, 1,700+ problems solved, mostly in Java. Former problem setter for national programming contests in Bangladesh.
 
 **Going deep on:** distributed systems, system design, computer networking.
