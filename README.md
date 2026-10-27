@@ -1,6 +1,6 @@
 ### Mubtasim Shahriar
 
-**Software engineer. I take systems from zero, or from someone else's prototype, to production, and keep them running.**
+**Senior software engineer. I take systems from zero, or from someone else's prototype, to production, and keep them running.**
 
 I'm a full-stack engineer in Dhaka. Since 2023 I've built and maintained production platforms for European enterprise clients, owning them end to end: data model, APIs, frontend, deployment, security and production fixes. Recent work:
 
